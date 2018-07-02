@@ -1,0 +1,26 @@
+img{
+	padding: 0;
+	border: 5px solid black;
+	width: 29.3%;
+	height: 400px;
+	float: left;
+	margin:1.66%;
+}
+
+h1{
+	text-transform: capitalize;
+	text-align: center;
+	margin: 1.66%; 
+	font-size: 5em;
+	font-weight: 600;
+	color: rgba(103,103,103,0.7);
+	font-family: 'Cabin Sketch', cursive;
+	border-bottom: 2px solid rgba(133,133,133,0.7);
+	padding-bottom: 20px;
+}
+
+body
+{
+	background: rgba(200,200,200,0.4);
+	
+}
