@@ -8,6 +8,11 @@ h4{
 
 }
 
+
+li{
+	font-size: 18px;
+}
+
 body{
 		max-width: 1000px;
 		width: 80%;

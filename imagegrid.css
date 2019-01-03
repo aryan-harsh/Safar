@@ -3,6 +3,11 @@
     margin-left: 5%;
 }
 
+
+li{
+  font-size: 18px;
+}
+
 h1{
 	text-transform: capitalize;
 	text-align: center;

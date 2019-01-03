@@ -19,6 +19,11 @@ h1
 	font-weight: 700;
 	font-size:10em;
 }
+
+h2{
+	font-size: 45px;
+}
+
 hr
 {
 	width:400px;
@@ -30,18 +35,24 @@ html
 {
 	height: 100%;
 }
+
+li{
+	font-size: 18px;
+}
 #arrow
 {
 	font-size:5em;
 }
 p
 {
-	font-size:2em;
+	font-size:1.5em;
+	padding-top: 3%;
+	padding-bottom: 7%;
 }
 #content1
 {
 	text-align: center;
-	padding-top: 25%;
+	padding-top: 12%;
 	color:#4d5647;
 	font-family: Lato;
 	font-size:2em;
